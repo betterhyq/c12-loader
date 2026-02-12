@@ -1,5 +1,5 @@
 [package]
-name = "packageName"
+name = "c12-loader"
 version = "0.0.1"
 authors = ["YONGQI <betterhyq@qq.com>"]
 edition = "2024"

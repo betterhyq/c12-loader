@@ -3,5 +3,5 @@
 version = 4
 
 [[package]]
-name = "packageName"
+name = "c12-loader"
 version = "0.0.1"
